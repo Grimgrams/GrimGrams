@@ -10,7 +10,5 @@ idk what i'm doing.
 ![](https://nirzak-streak-stats.vercel.app/?user=Grimgrams&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grimgrams&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
----
-[![](https://visitcount.itsvg.in/api?id=Grimgrams&icon=10&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
