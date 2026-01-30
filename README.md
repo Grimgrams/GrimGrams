@@ -11,7 +11,7 @@
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
   
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Grimgrams&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> --
 ![](https://nirzak-streak-stats.vercel.app/?user=Grimgrams&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grimgrams&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
